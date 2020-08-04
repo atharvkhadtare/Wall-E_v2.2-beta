@@ -1,13 +1,14 @@
 # Steps to setup and configure ESP-IDF in windows
---------------------------------------------------
+
+
 **Download the installer** file from  [esp-idf_installer.exe](https://dl.espressif.com/dl/esp-idf-tools-setup-2.3.exe) 
 
 The installer includes the cross-compilers, OpenOCD, cmake and Ninja build tool. The installer can also download and run installers for Python 3.7 and Git For Windows if they are not already installed on the computer.
 
 The installer also offers to download one of the ESP-IDF release versions.
 [refer](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
-STEPS for installation (with screen shots):
---------------------------------------------------
+
+
 ## Step 1:
 ![step1](https://github.com/SRA-VJTI/Wall-E_v2.2-beta/blob/dhruva/windows/windows_instructions/step_1.png)
 
