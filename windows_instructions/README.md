@@ -35,4 +35,4 @@ Now you can run ESP-IDF by
 - **OR** you can find a shortcut on your desktop itself
 - click on the first result that you see, which will open up a new command shell where your variables and paths will all be configured.
 - from this cmd window you can navigate to your desired location and clone or create new esp-idf projects! 
-- 
+- Now, for this workshop, clone this repo in your C drive. 
